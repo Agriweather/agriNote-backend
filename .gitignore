@@ -1,5 +1,5 @@
 # develpment
-agriweather/settings/development.py
+agrinote/settings/development.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
